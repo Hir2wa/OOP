@@ -8,7 +8,7 @@ public class Myswitch {
 switch (num) {
     case 1:
         if (i%2==0) {
-            System.out.println("even:" +i);
+            System.out.println("Even:" +i);
         }
         break;
 
