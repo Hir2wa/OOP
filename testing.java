@@ -6,7 +6,7 @@ public class testing {
         double avg = (c+java+oop)/3;
 
       if (avg>80) {
-        System.out.println("my Average is " +avg);
+        System.out.println("my Average :" +avg);
         
       }
       else{
