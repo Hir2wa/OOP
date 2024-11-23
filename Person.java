@@ -9,7 +9,7 @@ public class Person {
     public static void main(String[] args) {
         Person person = new Person();
         person.age = 20;
-        person.name = "fabrice";
+        person.name = "Alain";
         person.display();
     }
 }
