@@ -9,7 +9,7 @@ public class calculator {
         System.out.println(d);
     }
     else{
-System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
+System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
     }
       }
     
