@@ -6,7 +6,7 @@ public class Circle {
 
     public  void showw(){
      
-        System.out.println( "the area of  circle is :" +area);
+        System.out.println( "the area of circle is :" +area);
     }
 
     public  void main(String[] args) {
