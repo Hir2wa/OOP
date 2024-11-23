@@ -9,6 +9,6 @@ public class methode4 {
         double y = c.nextDouble();
         double pi = 3.14;
         double result = y*y*pi;
-        System.out.println("  Radius of "+c  +" has  Area of" + "  " +result);
+        System.out.println("  Radius of "+c  +"   Area of" + "  " +result);
     }
 }
