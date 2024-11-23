@@ -11,7 +11,7 @@ public class Bank {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter initial balance:");
         this.balance = sc.nextDouble();
-        sc.nextLine(); // Consume newline after double input
+        sc.nextLine(); // Consume  after double input
     }
 
     // Setter for withdrawal amount with user input
