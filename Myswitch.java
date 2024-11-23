@@ -2,7 +2,7 @@ public class Myswitch {
     public static void main(String[] args) {
         String num;
 
-  for (int i = 11; i < 70; i++) {
+  for (int i = 10; i < 70; i++) {
     
 
 switch (num) {
