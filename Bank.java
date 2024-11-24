@@ -14,7 +14,7 @@ public class Bank {
         sc.nextLine(); // Consume  after double
     }
 
-    // Setter for withdrawal amount with user input
+    // Setter for withdrawal amount with  input
     public void setWithdrawalAmount() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter withdrawal amount:");
