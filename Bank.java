@@ -74,7 +74,7 @@ public class Bank {
         bank.requestLoan();
        
 
-        // Attempt to withdraw the amount
+        //  thento withdraw the amount
        
     }
 }
