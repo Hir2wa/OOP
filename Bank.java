@@ -55,7 +55,7 @@ public class Bank {
 
         if (balance > 50000) { // Ensure balance is greater than 50,000 to qualify for loan
             double maxLoanAmount = 10 * balance; // Max loan  10 times  balance
-            if (loanAmount <= maxLoanAmount) {   // Compare loanAmount to the max possible loan
+            if (loanAmount <= maxLoanAmount) {   // Compar loanAmount to the max possible loan
                 System.out.println("Loan of " + loanAmount + " granted.");
             } else {
                 System.out.println("Requested loan exceeds 10 times your current balance.");
