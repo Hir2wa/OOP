@@ -11,7 +11,15 @@ public class Excp2 {
     
 
     public static void main(String[] args) {
-        
+         try{
+          Class.forName("Excp2");
+    
+         }
+         catch(ClassNotFoundException e){
+          System.out.println("not able to found the class" + e.getMessage());
+         }
+   
+       
         
     int i = 20 ;
     int j = 0;
