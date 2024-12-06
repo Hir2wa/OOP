@@ -1,0 +1,16 @@
+ as  we work on the  trying to  understang exception in java   is  essatioal  to try to understand  just 3 thinngs  compiler runtime error and logical errors    
+ let takae a simple example bu using these simple one  right   
+ by making declaration using  string x = 4;
+ system.out.println(x);
+ wee will get a  compiler error  why   (we all know that we write S  by capital letter )
+ ex2: buy taking 
+  int x=7;
+  int y= 0;
+  int z = x/y;
+  system.out.println(z)
+  // we geet aritmetic error  // whyyyyyy we get out but we get error 
+  these is a logical error i think so //
+
+
+
+  other example is simple here 
